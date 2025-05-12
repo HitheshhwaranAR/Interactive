@@ -25,6 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -137,6 +138,7 @@ function closeModal() {
     const modal = document.getElementById("modal");
     modal.style.display = "none";
 }
+```
 ## OUTPUT:
 ![Screenshot 2025-05-12 212255](https://github.com/user-attachments/assets/47bbcd9a-24ca-428b-b956-42f31bf5e020)
 ![Screenshot 2025-05-12 212321](https://github.com/user-attachments/assets/82c467aa-a1f1-4e6e-bb93-b1b0d947114a)
